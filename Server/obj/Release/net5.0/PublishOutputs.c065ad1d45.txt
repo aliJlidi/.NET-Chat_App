@@ -1,0 +1,5 @@
+C:\Users\Ali\source\repos\Chat_Application\Server\bin\Release\net5.0\publish\Server.exe
+C:\Users\Ali\source\repos\Chat_Application\Server\bin\Release\net5.0\publish\Server.dll
+C:\Users\Ali\source\repos\Chat_Application\Server\bin\Release\net5.0\publish\Server.deps.json
+C:\Users\Ali\source\repos\Chat_Application\Server\bin\Release\net5.0\publish\Server.runtimeconfig.json
+C:\Users\Ali\source\repos\Chat_Application\Server\bin\Release\net5.0\publish\Server.pdb

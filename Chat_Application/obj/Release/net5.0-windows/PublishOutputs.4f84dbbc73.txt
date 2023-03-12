@@ -1,0 +1,5 @@
+C:\Users\Ali\source\repos\Chat_Application\Chat_Application\bin\Release\net5.0-windows\publish\Chat_Application.exe
+C:\Users\Ali\source\repos\Chat_Application\Chat_Application\bin\Release\net5.0-windows\publish\Chat_Application.dll
+C:\Users\Ali\source\repos\Chat_Application\Chat_Application\bin\Release\net5.0-windows\publish\Chat_Application.deps.json
+C:\Users\Ali\source\repos\Chat_Application\Chat_Application\bin\Release\net5.0-windows\publish\Chat_Application.runtimeconfig.json
+C:\Users\Ali\source\repos\Chat_Application\Chat_Application\bin\Release\net5.0-windows\publish\Chat_Application.pdb
